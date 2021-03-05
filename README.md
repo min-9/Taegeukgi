@@ -14,7 +14,7 @@ Each black trigram indicates natural element. Heaven, fire, water and earth. Als
 ```python
 from Taegeukgi import *
 
-bg.save('Taegeukgi.png')
+tgg.save('Taegeukgi.png')
 ```
 
 ## Dependency
